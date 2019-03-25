@@ -44,3 +44,6 @@ Katas1
 
 ### For Developers
 
+[Index.js](articles/index.md)
+[Run.js](articles/run.md);
+TestBase
