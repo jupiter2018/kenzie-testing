@@ -7,7 +7,7 @@ This is a required file in all test directors which calls a new TestBase object 
 [index.js](index.md)\
 [TestBase.js](testBase.md)
 
-###Current Template
+### Current Template
 
 ```const { TestBase } = require("../../testBase");
    let test = new TestBase(__dirname, {
