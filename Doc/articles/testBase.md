@@ -2,7 +2,7 @@
 
 This object creates any needed temporary files and runs any applicable unit tests.
 
-##Constructor (directory, options)
+## Constructor (directory, options)
 
 **directory** {string} :`'kenzie-testing/Tests/Katas1'`\
 Filepath to the directory in kenzie-testing/Tests \
