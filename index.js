@@ -26,6 +26,12 @@ parser.addArgument(
     }
 );
 
+parser.addArgument(
+    ['-dom'], {
+        
+    }
+)
+
 /*    
     This script takes either a github/gitlab url as a 2nd argument (Ex: kenzie-test katas1 -g https://github.com/jragard/katas1) 
     or, to test a local file, 1 argument (Ex: kenzie-test katas1).  Git url args must have a -g or --gitlink flag.
